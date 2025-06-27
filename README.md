@@ -10,7 +10,7 @@ To intall the dependencies and obtain the agent script, clone this repo and use 
 # Current setup and examples files
 git clone https://github.com/lpietan/streamlit-data-vis-agent-beta
 
-cd Data-Vis-Agent-CL
+cd streamlit-data-vis-agent-beta
 
 # Install dependencies (best in virtual environment)
 pip install -r requirements.txt

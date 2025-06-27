@@ -1,0 +1,7 @@
+together
+tiktoken
+pandas
+streamlit
+seaborn
+openpyxl
+pyarrow

@@ -23,7 +23,7 @@ streamlit run dataset_agent_streamlit_app.py
 ```
 
 ## Together AI Key and Model
-The agent uses a model hosted by Together AI (https://www.together.ai). To have access to the model, users will need to generate their own Together AI API key. If users already have a user key, they can move onto the next step ([Configuration and Input](#Configuration-and-Input)). If users do not already have a user key, they will need to create a Together AI account and generate one at the following link.
+The agent uses a model hosted by Together AI (https://www.together.ai). To have access to the model, users will need to generate their own Together AI API key. If users do not already have a user key, they will need to create a Together AI account and generate one at the following link.
 
 https://api.together.ai/signin
 
